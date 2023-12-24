@@ -1,0 +1,14 @@
+
+<svg width="400" height="400"
+xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+<circle r="100" cx="120" cy="120" fill="yellow" stroke='#427F37'/>
+
+
+<circle r="50" cx="120" cy="120" fill="orange"  stroke='orange' stroke-width='40'/>
+<circle r="50" cx="120" cy="120" fill="orange" stroke-dasharray='32' stroke='red' stroke-width='40' />
+<circle r="50" cx="120" cy="120" fill="orange" stroke-dasharray='0' stroke='orange' stroke-width='40' stroke-opacity='50%'/>
+<circle r="40" cx="120" cy="120" fill="yellow" stroke-width='20' stroke='#76FE5D'/>
+<rect fill='khaki' stroke='#427F37' width='10' height='100' x = '112' y='220' >
+</svg>
