@@ -1,0 +1,71 @@
+body{
+	background:#006400;
+}
+.k1:focus{
+top:200px;
+}
+.k1{
+	border: 1px solid black; 
+	width:200px;
+	height:300px;
+	margin:7px;
+	background:white;
+	border-radius:5px;
+	display:inline-block;
+	position:relative;
+	bottom:2%;
+}
+
+.div1::before{
+	content:'A';
+	color:red;
+	margin:5px;
+	display:block;
+	position:relative;
+	left:5%;
+	top:4%;
+	font-size:30px;
+}
+.div1::after{
+	content:'Ɐ';
+	color:red;
+	margin:5px;
+	display:block;
+	position:relative;
+	left:80%;
+	bottom:37%;
+	font-size:30px;
+}
+.hurt1{
+	color:red;
+	left:84%;
+	top:43%;
+	font-size:30px;
+	position:relative;
+display: inline-block;
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-webkit-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+}
+.hurt2{
+	color:red;
+	left:9%;
+	bottom:37%;
+	font-size:30px;
+	position:relative;
+}
+.hurt3{
+	color:red;
+	left:40%;
+	bottom:45%;
+	font-size:50px;
+	position:relative;
+}
+/*p{
+color:red;
+/*position:relative;
+text-align:center;
+leng
+}*/

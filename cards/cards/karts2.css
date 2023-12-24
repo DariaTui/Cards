@@ -1,0 +1,64 @@
+.k2:focus{
+top:200px;
+}
+.k2{
+	border: 1px solid black; 
+	width:200px;
+	height:300px;
+	margin:20px;
+
+	background:white;
+	display:inline-block;
+	border-radius:5px;
+	position:relative;
+	bottom:2%;
+	
+}
+
+.div2::before{
+	content:'2';
+	color:;
+	margin:5px;
+	display:block;
+	position:relative;
+	left:5%;
+	top:4%;
+	font-size:30px;
+}
+.div2::after{
+	content:'↊';
+	color;
+	margin:5px;
+	display:block;
+	position:relative;
+	left:80%;
+	bottom:37%;
+	font-size:30px;
+}
+.hurt11{
+	color:;
+	left:84%;
+	top:43%;
+	font-size:30px;
+	position:relative;
+display: inline-block;
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-webkit-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+}
+.hurt22{
+	color:;
+	left:9%;
+	bottom:37%;
+	font-size:30px;
+	position:relative;
+}
+.hurt33{
+	color:;
+	left:40%;
+	bottom:45%;
+	font-size:50px;
+	position:relative;
+}
